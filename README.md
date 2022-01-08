@@ -50,7 +50,7 @@ for i in range(n):
     
 
 ## Output:
-![gaussian elimination](./SCREEN.PNG)
+![git](./SCREEN.PNG)
 
 
 ## Result:
