@@ -50,7 +50,9 @@ for i in range(n):
     
 
 ## Output:
-![git](./2022-01-08.PNG)
+
+![2022-01-08](https://user-images.githubusercontent.com/94166127/148635301-f5c91692-d863-4457-8a31-65c1bcd8040c.png)
+
 
 
 ## Result:
