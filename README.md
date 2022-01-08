@@ -50,7 +50,7 @@ for i in range(n):
     
 
 ## Output:
-![git](./SCREEN.PNG)
+![git](./2022-01-08.PNG)
 
 
 ## Result:
